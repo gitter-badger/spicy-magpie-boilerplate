@@ -1,0 +1,63 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# Maintainers
+
+    Spicy Magpie - <spicy.magpie@gmail.com>
+
+# Collaborators
+
+    José Tomás Albornoz Rodríguez - <jojo@eljojo.net>
+    Daniela Escobar Arco - <daniela.escobar.a@gmail.com>
+    Mauricio Carrasco Filgueira - <muerepixel@gmail.com>
+
+# Technologies involved
+
+    Core technologies
+    -----------------
+    - HTML5
+    - CSS3
+    - JavaScript
+
+    Preprocessors
+    -------------
+    - LESS
+        http://www.lesscss.org/
+    - SASS/SCSS
+        http://www.sass-lang.org/
+    - Stylus
+        http://learnboost.github.io/stylus/
+    - CoffeeScript
+        http://www.coffeescript.org
+
+    Supporting files
+    ----------------
+    - Adobe Cross Domain Policy File Specification
+        http://www.adobe.com/devnet/articles/crossdomain_policy_file_spec.html
+    - Apple Touch Icons, as explained by Mathias Bynens
+        https://mathiasbynens.be/notes/touch-icons
+    - HumansTXT
+        http://www.humanstxt.org/
+    - ParaType Sans Serif, Serif and Mono free fonts
+        http://www.paratype.com/public/
+    - RobotsTXT
+        http://www.robotstxt.org/
+    - Sitemap XML
+        http://www.sitemap.org/
+
+    Development
+    -----------
+    - Adobe Brackets
+        http://brackets.io/
+    - Apache HTTP Server
+        http://httpd.apache.org/
+    - Bower
+        http://bower.io/
+    - EditorConfig
+        http://editorconfig.org/
+    - Github
+        https://github.com/
+    - Gitflow
+        https://github.com/nvie/gitflow/
+    - Markdown
+        http://daringfireball.net/projects/markdown/

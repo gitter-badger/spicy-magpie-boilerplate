@@ -1,0 +1,9 @@
+# http://robotstxt.org/
+
+User-agent: *
+
+Disallow: build/
+Disallow: dist/
+Disallow: vendor/
+
+Sitemap: http://www.example.org/sitemap.xml

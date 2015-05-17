@@ -1,0 +1,97 @@
+/**
+ * Spicy Magpie's Boilerplate
+ *
+ * Mobile styles and media queries.
+ */
+
+/* XXXS */
+@media only screen
+    and (max-width : 320px)
+{
+
+}
+
+/* XXS */
+@media only screen
+    and (min-width : 320px)
+{
+
+}
+
+/* XS */
+@media only screen
+    and (min-width : 480px)
+{
+
+}
+
+/* S */
+@media only screen
+    and (min-width : 600px)
+{
+
+}
+
+/* M */
+@media only screen
+    and (min-width : 768px)
+{
+
+}
+
+/* Normal */
+@media only screen
+    and (min-width : 960px)
+{
+
+}
+
+/* SVGA */
+@media only screen
+    and (min-width : 1024px)
+{
+
+}
+
+/* Notebook */
+@media only screen
+    and (min-width : 1366px)
+{
+
+}
+
+/* L */
+@media only screen
+    and (min-width : 1440px)
+{
+
+}
+
+/* XL */
+@media only screen
+    and (min-width : 1650px)
+{
+
+}
+
+/* XXL */
+@media only screen
+    and (min-width : 1920px)
+{
+
+}
+
+
+/* Apple Large */
+@media only screen
+    and (min-width : 2560px)
+{
+
+}
+
+/* 4k */
+@media only screen
+    and (min-width : 3840px)
+{
+
+}
