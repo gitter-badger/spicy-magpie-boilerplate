@@ -1,0 +1,32 @@
+# Filtering unwanted directories
+
+.sass-cache/
+.tmp/
+build/
+coverage/
+dist/
+lib-cov/
+log/
+logs/
+node_modules/
+pids/
+test/
+tests/
+tmp/
+vendor/
+
+
+# Filtering unwanted files by name
+
+.DS_Store
+.grunt
+.lock-wscript
+sitemap.xml
+
+
+# Filtering unwanted files by wildcards
+
+*.appcache
+*.log
+*.pid
+*.seed

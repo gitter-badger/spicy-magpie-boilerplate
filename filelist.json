@@ -1,0 +1,81 @@
+{
+    "css": [
+        {
+            "name": "vendor/bower/html5-reset/assets/css/reset.css",
+            "type": "css",
+            "group": "vendor"
+        },
+        {
+            "name": "stylesheets/default.css",
+            "type": "css",
+            "group": "development"
+        },
+        {
+            "name": "stylesheets/example.less",
+            "type": "less",
+            "group": "development"
+        },
+        {
+            "name": "stylesheets/example.sass",
+            "type": "sass",
+            "group": "development"
+        },
+        {
+            "name": "stylesheets/example.scss",
+            "type": "sass",
+            "group": "development"
+        },
+        {
+            "name": "stylesheets/example.styl",
+            "type": "stylus",
+            "group": "development"
+        },
+        {
+            "name": "stylesheets/design.css",
+            "type": "css",
+            "group": "development"
+        },
+        {
+            "name": "stylesheets/mobile.css",
+            "type": "css",
+            "group": "development"
+        }
+    ],
+    "js": [
+        {
+            "name": ".tmp/traceur_runtime.js",
+            "type": "js",
+            "group": "vendor"
+        },
+        {
+            "name": "vendor/bower/underscore/underscore.js",
+            "type": "js",
+            "group": "vendor"
+        },
+        {
+            "name": "vendor/bower/sugar/release/sugar-full.development.js",
+            "type": "js",
+            "group": "vendor"
+        },
+        {
+            "name": "vendor/bower/jquery/dist/jquery.js",
+            "type": "js",
+            "group": "vendor"
+        },
+        {
+            "name": "javascripts/console.js",
+            "type": "es6",
+            "group": "development"
+        },
+        {
+            "name": "javascripts/controller.js",
+            "type": "js",
+            "group": "development"
+        },
+        {
+            "name": "javascripts/example.coffee",
+            "type": "coffee",
+            "group": "development"
+        }
+    ]
+}

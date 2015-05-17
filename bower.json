@@ -1,0 +1,11 @@
+{
+    "name": "spicy-magpie-boilerplate",
+    "private": true,
+    "devDependencies": {
+        "modernizr": "*",
+        "html5-reset": "*",
+        "jquery": "*",
+        "underscore": "*",
+        "sugar": "*"
+    }
+}

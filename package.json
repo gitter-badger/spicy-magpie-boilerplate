@@ -1,0 +1,89 @@
+{
+
+    "section":              "Project Description",
+    "-------":              "-------------------",
+
+    "name":                 "spicy-magpie-boilerplate",
+    "title":                "Spicy Magpie's Boilerplate",
+    "description":          "A quick prototyping framework for Web design projects",
+    "keywords":             "html, html5, css, css3, javascript, web, design, projects, framework",
+    "url":                  "https://www.github.com/spicymagpie/spicy-magpie-boilerplate/",
+
+
+    "section":              "Technical Details",
+    "-------":              "-----------------",
+
+    "locale":               "en",
+    "version":              "0.1.0",
+    "license":              "MIT",
+    "private":              true,
+
+    "server_port":          "5000",
+    "assets_dir":           "build",
+    "dist_dir":             "dist",
+    "temp_dir":             ".tmp",
+    "stylesheets_dir":      "stylesheets/",
+    "javascripts_dir":      "javascripts/",
+
+    "section":              "Social Details",
+    "-------":              "--------------",
+    "site_facebook_id":     "",
+    "site_facebook_admins": "100009039044338",
+    "site_twitter":         "@spicymagpie",
+    "site_googleplus":      "116018532381612911668",
+    "site_ga_code":         "XXXXX-X",
+
+
+    "section":              "Developer Details",
+    "-------":              "-----------------",
+
+    "author":               "Spicy Magpie <spicy.magpie@gmail.com>",
+    "twitter":              "@spicymagpie",
+    "googleplus":           "116018532381612911668",
+
+
+    "section":              "Node.js Dependencies and Engines",
+    "=======":              "================================",
+
+    "CAUTION":              "Do not touch unless you know what you're doing",
+    "-------":              "----------------------------------------------",
+
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-clean": "*",
+        "grunt-contrib-coffee": "*",
+        "grunt-contrib-concat": "*",
+        "grunt-contrib-copy": "*",
+        "grunt-contrib-csslint": "*",
+        "grunt-contrib-cssmin": "*",
+        "grunt-contrib-htmlmin": "*",
+        "grunt-contrib-imagemin": "*",
+        "grunt-contrib-jshint": "*",
+        "grunt-contrib-less": "*",
+        "grunt-contrib-sass": "*",
+        "grunt-contrib-stylus": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-autoprefixer": "*",
+        "grunt-browser-sync": "*",
+        "grunt-concurrent": "*",
+        "grunt-manifest": "*",
+        "grunt-modernizr": "*",
+        "grunt-newer": "*",
+        "grunt-svgmin": "*",
+        "grunt-traceur": "*",
+        "grunt-xml-sitemap": "*",
+        "jshint-stylish": "*",
+        "load-grunt-configs": "*",
+        "load-grunt-tasks": "*",
+        "matchdep": "*",
+        "underscore": "*",
+        "time-grunt": "*"
+    },
+
+    "engines": {
+        "node": ">=0.10.0"
+    }
+
+
+}
