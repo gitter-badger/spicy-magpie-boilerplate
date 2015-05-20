@@ -8,6 +8,8 @@
 
 ## Documentation Status
 
+[![Join the chat at https://gitter.im/spicymagpie/spicy-magpie-boilerplate](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spicymagpie/spicy-magpie-boilerplate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This documentation is intentionally incomplete. It is just a getting started
 guide and should be complemented with the Website documentation.
 
